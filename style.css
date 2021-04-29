@@ -1,0 +1,17 @@
+body {
+    text-align:center;
+  }
+  
+  image {
+    width: 450px;
+    height:600px;
+  }
+  
+  p {
+    font-size:40px;
+  }
+  
+  img {
+    width:100px;
+    height:180px
+  }
